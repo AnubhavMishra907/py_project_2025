@@ -88,4 +88,4 @@ if __name__ == '__main__':
             webbrowser.open("https://www.openai.com/")
 
         else:
-            speechtx("hello hardik what can i help you.")
+            speechtx("hello Uesr's what can i help you.")
